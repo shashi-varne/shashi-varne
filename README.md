@@ -44,7 +44,7 @@
 <p>
 	<span>
     <img src="https://img.shields.io/badge/-Custom Components-white?&color=black&style=for-the-badge" alt="Custom components">
-    <img src="https://img.shields.io/badge/-Developing Design system-white?color=black&style=for-the-badge" alt="Design system">
+    <img src="https://img.shields.io/badge/-Developing Design system from scratch-white?color=black&style=for-the-badge" alt="Design system">
     <img src="https://img.shields.io/badge/-Performance-white?color=black&style=for-the-badge" alt="Performance">
     <img src="https://img.shields.io/badge/-Data layer-white?color=black&style=for-the-badge" alt="Data layer">
     <img src="https://img.shields.io/badge/-Highly scalable code-white?color=black&style=for-the-badge" alt="Data layers">
