@@ -38,17 +38,28 @@
 
 </p> 
 <br/>
-
-<p align="center">
-    <a href="https://github.com/shashi-varne/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-varne&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+## Specialities
+<p>
+	<span>
+    <img src="https://img.shields.io/badge/-Custom Components-white?&color=black&style=for-the-badge" alt="Custom components">
+    <img src="https://img.shields.io/badge/-Developing Design system-white?color=black&style=for-the-badge" alt="Design system">
+    <img src="https://img.shields.io/badge/-Performance-white?color=black&style=for-the-badge" alt="Performance">
+    <img src="https://img.shields.io/badge/-Data layers-white?color=black&style=for-the-badge" alt="Data layers">
+    <img src="https://img.shields.io/badge/-Highly scalable code-white?color=black&style=for-the-badge" alt="Data layers">
 </p>
+
+</br>
 
 ## 📊 My Github Stats
 
 <a href="https://github.com/shashi-varne/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-varne&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
+
+<p align="left">
+    <a href="https://github.com/shashi-varne/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-varne&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 <b>**Note**:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
