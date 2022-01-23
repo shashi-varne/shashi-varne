@@ -38,7 +38,9 @@
 
 </p> 
 <br/>
+
 ## Specialities
+
 <p>
 	<span>
     <img src="https://img.shields.io/badge/-Custom Components-white?&color=black&style=for-the-badge" alt="Custom components">
