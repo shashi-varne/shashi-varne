@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi, I'm Shashidhar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
+<h1 align="center">Hi, I'm Shashidhar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width: 30px; height: 30px;"></h1>
 <h3 align="center">I'm a passionate Frontend Developer from India.</h3>
 
 ## 🙋‍♂️ About me
 
-- 🔭 I’m currently working as a full-time Frontend developer at **[Fisdom](https://www.fisdom.com/)**
+- 🔭 I’m currently working as a full-time Frontend developer at **[Fisdom](https://www.fisdom.com/)*
 
 - 🌱 Always eager to improve my **Data Structures and Algorithms** skills.
 
