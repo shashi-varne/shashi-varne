@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About me
 
-- 🔭 I’m currently working as a full-time Frontend developer at **[Fisdom](https://www.fisdom.com/)*
+- 🔭 I’m currently working as a full-time Frontend developer at **[Planview](https://www.planview.com/)*
 
 - 🌱 Always eager to improve my **Data Structures and Algorithms** skills.
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 🏛️ 3 years of Solid development experience.
+- 🏛️ 4 years of Solid development experience.
 
 - 🍪 Expertise in building custom and scalable code base.
 - ⚡ Fun fact: **I play guitar and piano in my free time**
