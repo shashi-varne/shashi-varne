@@ -1,11 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Shashidhar</h1>
-<h3 align="center">I'm a passionate Frontend Developer based in Kitchener, Ontario</h3>
+<h3 align="center">I'm a passionate Frontend Developer based in Bangalore</h3>
 
 ## 🙋‍♂️ About me
-
-- 🔭 I’m currently pursuing my Post-grad degree in Web development from Conestoga College, Ontario*
 
 - 🌱 Always eager to improve my **Data Structures and Algorithms** skills.
 
