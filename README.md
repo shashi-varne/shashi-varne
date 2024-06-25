@@ -60,7 +60,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shashidhar-varne-74141b15a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/shashidhar-varne/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/shashi.varne/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
