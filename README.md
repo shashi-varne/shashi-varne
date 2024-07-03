@@ -1,38 +1,40 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi, I'm Shashidhar</h1>
-<h3 align="center">I'm a passionate Frontend Developer based in Bengaluru</h3>
+<h1 align="center">Hello, I'm Shashidhar V C</h1>
+<h3 align="center">I'm a Frontend Developer with 4 years of experience in product based companies and startups, based in Bengaluru, India.</h3>
 
-## 🙋‍♂️ About me
-
-- 🌱 Always eager to improve my **Data Structures and Algorithms** skills.
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-- 🏛️ 4 years of Solid development experience.
-
-- 🍪 Expertise in building custom and scalable code base.
-- ⚡ Fun fact: **I play guitar and piano in my free time**
-
-<br/>
 
 ## 📞 Contact me
 
-- 📫 Email: **shashi.varne04@gmail.com**
+- Email: **shashi.varne04@gmail.com**
+<br>
+- LinkedIn: <a href = "https://www.linkedin.com/in/shashidhar-varne/">https://www.linkedin.com/in/shashidhar-varne/</a>
+- Leetcode: https://leetcode.com/u/shashi_varne/
+
 
 <br/>
 
 ## 🚀 Languages and Tools:
+<p>
+	<span>
+    <img src="https://img.shields.io/badge/-HTML -black?&color=white&style=for-the-badge" alt="HTML">
+    <img src="https://img.shields.io/badge/-CSS -black?&color=white&style=for-the-badge" alt="CSS">
+    <img src="https://img.shields.io/badge/-Javascript -black?&color=white&style=for-the-badge" alt="Javascript">
+    <img src="https://img.shields.io/badge/-Typescript -black?&color=white&style=for-the-badge" alt="Typescript">
+    <img src="https://img.shields.io/badge/-ReactJS -black?&color=white&style=for-the-badge" alt="ReactJS">
+    <img src="https://img.shields.io/badge/-Redux -black?&color=white&style=for-the-badge" alt="Redux">
+    <img src="https://img.shields.io/badge/-React native -black?&color=white&style=for-the-badge" alt="React native">
+    <img src="https://img.shields.io/badge/-Angular -black?&color=white&style=for-the-badge" alt="Angular">
+    <img src="https://img.shields.io/badge/-Python -black?&color=white&style=for-the-badge" alt="Python">
+    <img src="https://img.shields.io/badge/-Selenium -black?&color=white&style=for-the-badge" alt="Selenium">
+    <img src="https://img.shields.io/badge/-GraphQL -black?&color=white&style=for-the-badge" alt="GraphQL">
+    <img src="https://img.shields.io/badge/-AWS(Ec2, s3, route53) -black?&color=white&style=for-the-badge" alt="aws-ec2-s3-route53">
+    
+    
+    
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+
+</p>
+
 
 </p> 
 <br/>
@@ -56,11 +58,3 @@
 <br/>
 <br/>
 
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/shashidhar-varne/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/shashi.varne/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
