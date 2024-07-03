@@ -5,8 +5,7 @@
 
 ## 📞 Contact me
 
-- Email: **shashi.varne04@gmail.com**
-<br>
+- Email: shashi.varne04@gmail.com <br>
 - LinkedIn: <a href = "https://www.linkedin.com/in/shashidhar-varne/">https://www.linkedin.com/in/shashidhar-varne/</a> <br>
 - Leetcode: https://leetcode.com/u/shashi_varne/
 
